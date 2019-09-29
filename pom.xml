@@ -15,6 +15,7 @@
         <module>Factory</module>
         <module>Prototype</module>
         <module>Singleton</module>
+        <module>composite</module>
     </modules>
 
     <properties>
