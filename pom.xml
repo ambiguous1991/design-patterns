@@ -17,6 +17,7 @@
         <module>Singleton</module>
         <module>composite</module>
         <module>Decorator</module>
+        <module>Flyweight</module>
     </modules>
 
     <properties>
