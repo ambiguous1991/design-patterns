@@ -1,4 +1,4 @@
-package com.jba;
+package pl.com.bartusiak.designpatterns.singleton;
 
 import java.util.function.Supplier;
 
