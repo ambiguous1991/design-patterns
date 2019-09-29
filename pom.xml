@@ -16,6 +16,7 @@
         <module>Prototype</module>
         <module>Singleton</module>
         <module>composite</module>
+        <module>Decorator</module>
     </modules>
 
     <properties>
