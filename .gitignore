@@ -72,5 +72,4 @@ fabric.properties
 **/target/
 **/.idea
 **/.iml
-.idea
 *.iml
