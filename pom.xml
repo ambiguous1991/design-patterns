@@ -20,6 +20,7 @@
         <module>Flyweight</module>
         <module>Proxy</module>
         <module>ChainOfResponsibility</module>
+        <module>Command</module>
     </modules>
 
     <properties>
