@@ -19,6 +19,7 @@
         <module>Decorator</module>
         <module>Flyweight</module>
         <module>Proxy</module>
+        <module>ChainOfResponsibility</module>
     </modules>
 
     <properties>
