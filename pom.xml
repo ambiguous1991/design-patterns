@@ -27,6 +27,7 @@
         <module>Memento</module>
         <module>NullObject</module>
         <module>Observer</module>
+        <module>State</module>
     </modules>
 
     <properties>
