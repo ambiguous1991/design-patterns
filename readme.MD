@@ -1,4 +1,4 @@
-#Design patterns exercises
+# Design patterns exercises
 
 As a exercise and revision, I took a Java Design Patterns course by Dmitri Nesteruk
 on Udemy. You can find the full course description 
